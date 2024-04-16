@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "q3Mke2ggnV5HTTxcarqyIAMmknQOk2Sk6A6vuJFX7wI=",
+  "Source": "ProductPriceUpdater",
+  "BasePath": "_content/ProductPriceUpdater",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
